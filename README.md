@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Misbah 👋</h1>
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Mechatronics+%26+Control+Engineering+%40+Deakin+University;Robotics+%E2%80%A2+Embedded+Systems+%E2%80%A2+Control;Building+rovers%2C+writing+firmware%2C+shipping+the+web+around+them" alt="intro typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Mechatronics+%26+Control+Engineer;Robotics+%E2%80%A2+Embedded+%E2%80%A2+Control;Rovers%2C+firmware%2C+and+the+web+around+them" alt="intro typing animation" />
   </a>
 </p>
 
@@ -48,22 +48,12 @@
 
 ### 📌 Featured Projects
 
-<p>
-  <a href="https://github.com/mirmisbahali/deakin_rover">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mirmisbahali&repo=deakin_rover&theme=github_dark" />
-  </a>
-  <a href="https://github.com/mirmisbahali/deakinrover.space">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mirmisbahali&repo=deakinrover.space&theme=github_dark" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/mirmisbahali/mirmisbahali.com">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mirmisbahali&repo=mirmisbahali.com&theme=github_dark" />
-  </a>
-  <a href="https://github.com/mirmisbahali/misbah-jetbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mirmisbahali&repo=misbah-jetbot&theme=github_dark" />
-  </a>
-</p>
+| Project | What it is |
+| --- | --- |
+| [**deakin_rover**](https://github.com/mirmisbahali/deakin_rover) | Lunar rover build: mechanical, electronics, and autonomy software |
+| [**deakinrover.space**](https://github.com/mirmisbahali/deakinrover.space) | Public website for the Deakin Rover team |
+| [**mirmisbahali.com**](https://github.com/mirmisbahali/mirmisbahali.com) | My personal site and portfolio |
+| [**misbah-jetbot**](https://github.com/mirmisbahali/misbah-jetbot) | NVIDIA JetBot experiments — computer vision and autonomy |
 
 ---
 
@@ -95,9 +85,12 @@
 
 ### 📊 GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirmisbahali&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirmisbahali&layout=compact&theme=github_dark&hide_border=true&hide=HTML,CSS,Jupyter%20Notebook" height="165" />
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mirmisbahali&theme=default" alt="mirmisbahali stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mirmisbahali&theme=default" alt="most used languages" />
+</p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=mirmisbahali" alt="streak" />
 </p>
 
 ---
